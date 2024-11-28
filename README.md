@@ -5,6 +5,7 @@ For this project, create a simple contract with 2-3 functions. Then show the val
 #  Installing
 +  You can clone the repository using the git clone <link to repository> command through your terminal.
 +  You can also clone it through github desktop by clicking the down arrow button beside the code button and selecting open with github desktop
++  https://github.com/MetacrafterChris/SCM-Starter
 #  Executing program
 +  Inside the project directory, in the terminal type: npm i
 +  Open two additional terminals in your VS code
